@@ -1,0 +1,10 @@
+{
+  "name": "enzyme-v3-and-react-16",
+  "version": "0.0.1",
+  "description": "Example of Jest, Enzyme v3 and React 16",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Eduardo Rabelo <oieduardorabelo@gmail.com> (https://github.com/oieduardorabelo)",
+  "license": "MIT"
+}
