@@ -5,6 +5,17 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "Eduardo Rabelo <oieduardorabelo@gmail.com> (https://github.com/oieduardorabelo)",
-  "license": "MIT"
+  "author": "Eduardo Rabelo (https://github.com/oieduardorabelo)",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "6.26.0",
+    "babel-preset-react-app": "3.0.3",
+    "enzyme": "3.0.0",
+    "enzyme-adapter-react-16": "1.0.0",
+    "jest": "21.2.1",
+    "raf": "3.3.2",
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "react-test-renderer": "16.0.0"
+  }
 }
